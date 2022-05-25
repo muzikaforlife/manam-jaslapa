@@ -1,0 +1,38 @@
+body {
+    background: rgb(54, 176, 253);
+}
+.center{
+    text-align: center;
+}
+.button{
+color: honeydew;
+padding:15px 32px;
+text-align: center;
+display: inline-block;
+font-size: 20px;
+margin: 4px 2px;
+cursor: pointer;
+}
+.button1{
+    background-color: rgb(49, 43, 43);
+    
+}
+.button2{
+    background-color: rgb(202, 197, 197);
+}
+.button3{
+    background-color: rgb(107, 106, 106);
+}
+.button4{
+    background-color: rgb(49, 44, 44);
+}
+
+
+
+
+
+
+
+
+
+
